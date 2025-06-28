@@ -13,7 +13,3 @@ if k == 27:
 elif k == ord('s'):
     cv2.imwrite('lena_copy.png', img1)
     cv2.destroyAllWindows()
-
-
-
-
